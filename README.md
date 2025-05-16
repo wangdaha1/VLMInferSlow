@@ -1,6 +1,6 @@
 # VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service
 
-This repository provides the official code of our ACL Main 2025 work: [Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images]
+This repository provides the official code of our ACL Main 2025 work: [VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service]
 
 
 ## Brief Introduction
