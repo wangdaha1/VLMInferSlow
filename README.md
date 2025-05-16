@@ -1,5 +1,7 @@
 # VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service
 
+This repository provides the official code of our ACL Main 2025 work: [Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images]
+
 
 ## Brief Introduction
 
@@ -17,7 +19,7 @@ Install required packages:
 pip install -r requirements.txt
 ```
 
-This code uses Flamingo model. Install the related packages:
+This code uses the Flamingo model. Install the related packages:
 
 ```bash
 git clone https://github.com/dhansmair/flamingo-mini.git
@@ -25,13 +27,23 @@ cd flamingo-mini
 pip install .
 ```
 
-We use the model from huggingface: https://huggingface.co/dhansmair/flamingo-tiny
+We use the model from Huggingface: https://huggingface.co/dhansmair/flamingo-tiny
 
 
-## VLMInferSlow
+## Run the code
 
-Run the following command to generate VLMInferSlow adversarial image
+Run the following command to generate the VLMInferSlow adversarial image
 
 ```shell
 bash run.sh
 ```
+
+
+## Citation
+
+If you find this work helpful, please cite as follows.
+
+```
+
+```
+
