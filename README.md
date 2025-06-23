@@ -49,7 +49,7 @@ If you find this work helpful, please cite as follows.
 @inproceedings{wang2025vlminferslow,
   title={VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service},
   author={Xiasi Wang, Tianliang Yao, Simin Chen, Runqi Wang, Lei YE, Kuofeng Gao, Yi Huang, Yuan Yao},
-  booktitle={ACL},
+  booktitle={Association for Computational Linguistics},
   year={2025}
 }
 ```
