@@ -1,8 +1,8 @@
 # VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service
 
-This repository provides the official code of our ACL Main 2025 work: [VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service] 
+This repository provides the official code of our ACL 2025 work: [VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service] 
 
-Paper: https://arxiv.org/abs/2506.15755
+Link: https://arxiv.org/abs/2506.15755
 
 
 ## Brief Introduction
@@ -46,10 +46,10 @@ bash run.sh
 If you find this work helpful, please cite as follows.
 
 ```
-@inproceedings{wang2025vlminferslow,
+@article{wang2025vlminferslow,
   title={VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service},
-  author={Xiasi Wang, Tianliang Yao, Simin Chen, Runqi Wang, Lei YE, Kuofeng Gao, Yi Huang, Yuan Yao},
-  booktitle={Association for Computational Linguistics},
+  author={Wang, Xiasi and Yao, Tianliang and Chen, Simin and Wang, Runqi and Ye, Lei and Gao, Kuofeng and Huang, Yi and Yao, Yuan},
+  journal={Association for Computational Linguistics},
   year={2025}
 }
 ```
